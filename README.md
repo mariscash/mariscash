@@ -1,6 +1,12 @@
 ## 👋
 
-My name is Marissa, and I am a 4th-year undergraduate electrical engineering student at the University of Virginia. I am currently learning GitHub for its use in ECE 6380: AI Hardware.
+My name is Marissa, and I am a 4th-year undergraduate electrical engineering student at the University of Virginia. I am currently learning GitHub for its use in ECE 6380: AI Hardware. I am interested in learning more about GitHub use within the classroom.
+
+Some things about me:
+
+- Currently working on capstone project involving radio communication between bikes at various altitudes
+- Favorite hobbies include shopping, running, spending time with friends, and petting cats
+  
 <!--
 **mariscash/mariscash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
